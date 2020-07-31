@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "visual-bible-history": {
+      "hosting": {
+        "visual-bible-history": [
+          "visual-bible-history"
+        ]
+      }
+    }
+  }
+}

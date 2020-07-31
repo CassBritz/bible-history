@@ -145,8 +145,13 @@
               "devServerTarget": "visual-bible-history:serve:production"
             }
           }
+        },
+        "deploy": {
+          "builder": "@angular/fire:deploy",
+          "options": {}
         }
       }
-    }},
+    }
+  },
   "defaultProject": "visual-bible-history"
 }
