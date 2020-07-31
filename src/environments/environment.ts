@@ -3,7 +3,17 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  firebase: {
+    apiKey: 'AIzaSyAR3G5Zr1AOBdiC8V19slH1SsyttTlLhbg',
+    authDomain: 'visual-bible-history.firebaseapp.com',
+    databaseURL: 'https://visual-bible-history.firebaseio.com',
+    projectId: 'visual-bible-history',
+    storageBucket: 'visual-bible-history.appspot.com',
+    messagingSenderId: '149496028789',
+    appId: '1:149496028789:web:2d9dde5eeecef63e8fa23c',
+    measurementId: 'G-24S949HVJ1',
+  },
 };
 
 /*
